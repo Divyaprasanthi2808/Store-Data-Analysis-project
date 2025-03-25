@@ -64,7 +64,6 @@ Using **pivot tables**, the data was summarized to uncover trends and relationsh
 ---
 
 ## Data Visualization
-![image alt](https://github.com/Divyaprasanthi2808/Store-Data-Analysis-project/blob/2b03dcc9451698b7d5df3fcda16db58074a5463f/Store%20Dashboard.jpeg)
 A user-friendly dashboard was created using:
 
 - **Pivot charts** based on the pivot tables.
